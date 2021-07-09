@@ -63,16 +63,14 @@ experiences:
       time:  5 months in 2018
       company: Volkswagen AG, Wolfsburg, Germany
       details: |
-              Development of methods for the numerical detection of acoustic
-instabilities in car breaks. Overseeing and analyzing test results and data.
+              Development of methods for the numerical detection of acoustic instabilities in car breaks. Overseeing and analyzing test results and data.
 
 
         - role: Research intern
       time: 6 months in 2017-2018
       company: Mahle GmbH, Stuttgart, Germany
       details: |
-        Automatization of FEM and CFD-simulation workflows.
-Support and control of the international CAE-support team.
+        Automatization of FEM and CFD-simulation workflows. Support and control of the international CAE-support team.
 
         - role: Research intern
       time: 4 months in 2016
@@ -84,8 +82,7 @@ Support and control of the international CAE-support team.
       time: 2016 - 2017
       company: Institute for continuum mechanics, Leibniz University Hannover, Germany
       details: |
-        Development of numerical advances for the Optimal Transportation Meshfree method
-    including software tools aimed at the simulation of additive manufacturing processes.
+        Development of numerical advances for the Optimal Transportation Meshfree method including software tools aimed at the simulation of additive manufacturing processes.
 
 publications:
     title: Publications
