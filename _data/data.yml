@@ -86,20 +86,17 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
       - title: Model-data-driven Constitutive Responses, Application to a Multiscale Computational Framework.
         link: "#"
         authors: Fuhg, J.N, Böhm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
         conference: Journal of Engineering Science, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: A classification-pursuing adaptive approach for Gaussian process regression on unlabeled data.
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Fuhg, J. N., and A. Fau.
+        conference: Mechanical Systems and Signal Processing, 2021
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
