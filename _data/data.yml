@@ -86,7 +86,10 @@ experiences:
 
 publications:
     title: Publications
-
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
       - title: Model-data-driven Constitutive Responses: Application to a Multiscale Computational Framework.
         link: "#"
