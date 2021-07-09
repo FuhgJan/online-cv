@@ -90,7 +90,7 @@ publications:
     papers:
       - title: "Model-data-driven Constitutive Responses: Application to a Multiscale Computational Framework."
         link: "#"
-        authors: Fuhg, J.N, Böhm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
+        authors: Fuhg, J.N, Boehm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
         conference: Journal of Engineering Science, 2021
 
       - title: "A classification-pursuing adaptive approach for Gaussian process regression on unlabeled data."
@@ -123,23 +123,23 @@ publications:
       - title: "Interval and fuzzy physics-informed neural networks for uncertain fields."
         link: "#"
         authors: Fuhg, J. N., Fau, A., Bouklas, N.
-        conference: Under review. arXiv preprint arXiv:2106.13727 , 2021
+        conference: "Under review. arXiv preprint arXiv:2106.13727 , 2021"
         
        - title: "Local approximate Gaussian process regression for data-driven constitutive laws, Development and comparison with neural networks."
         link: "#"
         authors: Fuhg, J.N, Marino, M, Bouklas, N.
-        conference: Under review. arXiv preprint arXiv:2105.04554 , 2021
+        conference: "Under review. arXiv preprint arXiv:2105.04554 , 2021"
         
         
        - title: The mixed deep energy method for resolving concentration features in finite strain hyperelasticity.
         link: "#"
         authors: Fuhg, J.N, Bouklas, N.
-        conference: Under review. arXiv preprint arXiv:2104.09623 , 2021
+        conference: "Under review. arXiv preprint arXiv:2104.09623 , 2021"
         
        - title: "A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks."
         link: "#"
-        authors: Kadeethum, T., O'Malley, D., Fuhg, J.N., Choi, Y., Lee, J., Viswanathan, H.S. and Bouklas, N.
-        conference: Under review. arXiv preprint arXiv:2105.13136 , 2021
+        authors: "Kadeethum, T., O'Malley, D., Fuhg, J.N., Choi, Y., Lee, J., Viswanathan, H.S. and Bouklas, N."
+        conference: "Under review. arXiv preprint arXiv:2105.13136 , 2021"
 
 skills:
     title: Skills &amp; Proficiency
