@@ -51,8 +51,7 @@ experiences:
       time: 2019 - 2020
       company: Institute for continuum mechanics, Leibniz University Hannover, Germany
       details: |
-        Research on machine learning approachs to speed up macro simulations for additive manufacturing of glass and polymers
-        including material models and numerical techniques.
+        Research on machine learning approachs to speed up macro simulations for additive manufacturing of glass and polymers including material models and numerical techniques.
     - role: Research assistent
       time: 2018 - 2019
       company: Institute for continuum mechanics, Leibniz University Hannover, Germany
@@ -91,7 +90,7 @@ publications:
       - title: Model-data-driven Constitutive Responses: Application to a Multiscale Computational Framework.
         link: "#"
         authors: Fuhg, J.N, Böhm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
-        Journal: Journal of Engineering Science, 2021
+        conference: Journal of Engineering Science, 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
