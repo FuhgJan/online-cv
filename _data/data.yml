@@ -103,7 +103,7 @@ publications:
         authors: Urrea-Quintero, J. H., Fuhg, J. N., Marino, M., Fau, A. 
         conference: Journal of Nonlinear Dynamics, 2021
         
-      - title: State-of-the-Art and Comparative Review of Adaptive Sampling Methods for Kriging.
+      - title: "State-of-the-Art and Comparative Review of Adaptive Sampling Methods for Kriging."
         link: "#"
         authors: Fuhg, J. N., Fau, A., Nackenhorst, U
         conference: Journal of Archives of Computational Methods in Engineering, 2020
@@ -114,18 +114,18 @@ publications:
         authors: Huang, D., Fuhg, J. N., Weißenfels, C., Wriggers, P.
         conference: Journal of Computer Methods in Applied Mechanics and Engineering, 2020
         
-      - title: Surrogate model approach for investigating the stability of a friction-induced oscillator of Duffing’s type.
+      - title: "Surrogate model approach for investigating the stability of a friction-induced oscillator of Duffing’s type."
         link: "#"
         authors: Fuhg, J. N., Fau, A.
         conference: Journal of Nonlinear Dynamics, 2019
         
         
-      - title: Interval and fuzzy physics-informed neural networks for uncertain fields.
+      - title: "Interval and fuzzy physics-informed neural networks for uncertain fields."
         link: "#"
         authors: Fuhg, J. N., Fau, A., Bouklas, N.
         conference: Under review. arXiv preprint arXiv:2106.13727 , 2021
         
-       - title: Local approximate Gaussian process regression for data-driven constitutive laws, Development and comparison with neural networks.
+       - title: "Local approximate Gaussian process regression for data-driven constitutive laws, Development and comparison with neural networks."
         link: "#"
         authors: Fuhg, J.N, Marino, M, Bouklas, N.
         conference: Under review. arXiv preprint arXiv:2105.04554 , 2021
@@ -136,7 +136,7 @@ publications:
         authors: Fuhg, J.N, Bouklas, N.
         conference: Under review. arXiv preprint arXiv:2104.09623 , 2021
         
-       - title: A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks.
+       - title: "A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks."
         link: "#"
         authors: Kadeethum, T., O'Malley, D., Fuhg, J.N., Choi, Y., Lee, J., Viswanathan, H.S. and Bouklas, N.
         conference: Under review. arXiv preprint arXiv:2105.13136 , 2021
