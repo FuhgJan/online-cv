@@ -52,26 +52,27 @@ experiences:
       company: Institute for continuum mechanics, Leibniz University Hannover, Germany
       details: |
         Research on machine learning approachs to speed up macro simulations for additive manufacturing of glass and polymers including material models and numerical techniques.
+    
     - role: Research assistent
       time: 2018 - 2019
       company: Institute for continuum mechanics, Leibniz University Hannover, Germany
       details: |
         Model reduction techniques with machine learning for the use in simulation frameworks.
     
-        - role: Research intern
+    - role: Research intern
       time:  5 months in 2018
       company: Volkswagen AG, Wolfsburg, Germany
       details: |
               Development of methods for the numerical detection of acoustic instabilities in car breaks. Overseeing and analyzing test results and data.
 
 
-        - role: Research intern
+    - role: Research intern
       time: 6 months in 2017-2018
       company: Mahle GmbH, Stuttgart, Germany
       details: |
         Automatization of FEM and CFD-simulation workflows. Support and control of the international CAE-support team.
 
-        - role: Research intern
+    - role: Research intern
       time: 4 months in 2016
       company: ZF Friedrichshafen, Friedrichshafen, Germany
       details: |
