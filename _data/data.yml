@@ -89,15 +89,12 @@ Support and control of the international CAE-support team.
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
+      - title: Model-data-driven Constitutive Responses: Application to a Multiscale Computational Framework.
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Fuhg, J.N, Böhm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
+        Journal: Journal of Engineering Science, 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
