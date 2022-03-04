@@ -88,6 +88,30 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: "Machine-learning convex and texture-dependent macroscopic yield from crystal plasticity simulations."
+        link: "#"
+        authors: Fuhg, J. N., van Wees, L., Obstalecki, M., Shade, P., Bouklas, N., Kasemer, M.
+        conference: "under review, arXiv preprint arXiv:2202.01885 (2022)."
+      - title: "On physics-informed data-driven isotropic and anisotropic constitutive models through probabilistic machine learning and space-filling sampling."
+        link: "#"
+        authors: Fuhg, J. N., Bouklas, N. 
+        conference: "under review, arXiv preprint arXiv:2109.11028 (2021)."
+      - title: "Interval and fuzzy physics-informed neural networks for uncertain fields."
+        link: "#"
+        authors: Fuhg, J. N., Kalogeris, I., Fau, A., Bouklas, N. 
+        conference: "Probabilistic Engineering Mechanics, 2022"
+      - title: "Local approximate Gaussian process regression for data-driven constitutive laws, Development and comparison with neural networks."
+        link: "#"
+        authors: Fuhg, J.N, Marino, M, Bouklas, N.
+        conference: "Computer Methods in Applied Mechanics and Engineering, 2022"
+      - title: The mixed deep energy method for resolving concentration features in finite strain hyperelasticity.
+        link: "#"
+        authors: Fuhg, J.N, Bouklas, N.
+        conference: "Journal of Computational Physics, 2022"
+      - title: "A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks."
+        link: "#"
+        authors: "Kadeethum, T., O'Malley, D., Fuhg, J.N., Choi, Y., Lee, J., Viswanathan, H.S. and Bouklas, N."
+        conference: "Nature Computational Science , 2021"
       - title: "Model-data-driven Constitutive Responses: Application to a Multiscale Computational Framework."
         link: "#"
         authors: Fuhg, J.N, Boehm, C., Bouklas, N., Fau, A. , Wriggers, P. , Marino, M.
@@ -112,22 +136,7 @@ publications:
         link: "#"
         authors: Fuhg, J. N., Fau, A.
         conference: Journal of Nonlinear Dynamics, 2019
-      - title: "Interval and fuzzy physics-informed neural networks for uncertain fields."
-        link: "#"
-        authors: Fuhg, J. N., Fau, A., Bouklas, N.
-        conference: "Under review. arXiv preprint arXiv:2106.13727 , 2021"
-      - title: "Local approximate Gaussian process regression for data-driven constitutive laws, Development and comparison with neural networks."
-        link: "#"
-        authors: Fuhg, J.N, Marino, M, Bouklas, N.
-        conference: "Under review. arXiv preprint arXiv:2105.04554 , 2021"
-      - title: The mixed deep energy method for resolving concentration features in finite strain hyperelasticity.
-        link: "#"
-        authors: Fuhg, J.N, Bouklas, N.
-        conference: "Under review. arXiv preprint arXiv:2104.09623 , 2021"
-      - title: "A framework for data-driven solution and parameter estimation of PDEs using conditional generative adversarial networks."
-        link: "#"
-        authors: "Kadeethum, T., O'Malley, D., Fuhg, J.N., Choi, Y., Lee, J., Viswanathan, H.S. and Bouklas, N."
-        conference: "Under review. arXiv preprint arXiv:2105.13136 , 2021"
+
 
 skills:
     title: Skills &amp; Proficiency
